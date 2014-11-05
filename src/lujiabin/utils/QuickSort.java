@@ -1,7 +1,7 @@
 package lujiabin.utils;
 
 /**
- * 
+ * 快速排序
  * @author lujiabin
  * @since 2014年11月5日
  */
