@@ -1,7 +1,7 @@
 package algorithm;
 
 /**
- * 
+ * 快速排序
  * @author lujiabin
  * @since 2014-11-6
  */
