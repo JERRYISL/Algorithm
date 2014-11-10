@@ -1,7 +1,7 @@
 package algorithm;
 
 /**
- * 快速排序
+ * 快速排序  时间复杂度：O(nlogn)  最坏:O(n*n)
  * @author lujiabin
  * @since 2014-11-6
  */
