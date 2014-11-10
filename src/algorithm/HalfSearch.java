@@ -29,7 +29,7 @@ public class HalfSearch {
 	public static void main(String[] args) {
 		int[] arr={6,13,25,33,56,67,89,99,123,387};//必须定义有序的数组
         int key=halfSearch(arr,89);
-        System.out.println("key= "+key);
+        System.out.println("key="+key);
 	}
 
 }
